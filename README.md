@@ -15,6 +15,9 @@ Datasets : Financial Dataset
 
 
 Steps : 1. Prepare csv file. 
+
         2. Create tables in SQL.
+ 
         3. Import csv file into SQL.
+        
         4. Transform and Load the database into Power Bi.
