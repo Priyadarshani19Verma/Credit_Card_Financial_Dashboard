@@ -7,7 +7,13 @@ Project Objective : To develop a comprehensive credit
                     enabling stakeholders to monitor 
                     and analyze credit card operations 
                     effectively.
+
+
+                    
 Datasets : Financial Dataset
+
+
+
 Steps : 1. Prepare csv file. 
         2. Create tables in SQL.
         3. Import csv file into SQL.
