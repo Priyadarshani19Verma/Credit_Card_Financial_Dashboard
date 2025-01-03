@@ -60,9 +60,7 @@ Overview YTD:
 
  
 
-• Blue & Silver credit card are contributing to 93% of overall 
-
-   transactions .
+• Blue & Silver credit card are contributing to 93% of overall  transactions .
 
 
 
