@@ -1,5 +1,7 @@
 # Credit_Card_Financial_Dashboard
 Power Bi dashboard
+
+
 Project Objective : To develop a comprehensive credit 
                     card weekly dashboard that 
                     provides real-time insights into key 
@@ -14,7 +16,7 @@ Datasets : Financial Dataset
 
 
 
-Steps : 1. Prepare csv file. 
+Steps : 1. Prepare csv file.
 
         2. Create tables in SQL.
  
